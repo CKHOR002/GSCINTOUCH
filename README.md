@@ -106,7 +106,7 @@ This is an example of how to get a local copy up and running.
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/jiawei99/intouch_google_solution.git
+   git clone https://github.com/CKHOR002/GSCINTOUCH.git
    ```
 2. Install packages
    ```sh
