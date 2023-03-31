@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "531181402249",
+    "project_id": "intouch-6d207",
+    "storage_bucket": "intouch-6d207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531181402249:android:069410ee770f458c3aee58",
+        "android_client_info": {
+          "package_name": "com.example.intouch_imagine_cup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531181402249-2vfgph4h20ntfhbbojc9aao1465mvu8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAzF2GqvLYUvGdo4qBzdrnYObb4t5PkwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531181402249-2vfgph4h20ntfhbbojc9aao1465mvu8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531181402249-3pdmfhvuf9pi181no7po7kt6irqq0bti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "intouch.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
