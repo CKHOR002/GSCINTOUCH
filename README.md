@@ -19,14 +19,14 @@
     Mental Health Application!
     <br />
     <br />
-    <a href="https://github.com/jiawei99/intouch_google_solution">View Demo</a>
+    <a href="https://github.com/CKHOR002/GSCINTOUCH">View Demo</a>
     ·
-    <a href="https://github.com/jiawei99/intouch_google_solution/issues">Report Bug</a>
+    <a href="https://github.com/CKHOR002/GSCINTOUCH/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jiawei99/intouch_google_solution/issues">Request Feature</a>
+    <a href="https://github.com/CKHOR002/GSCINTOUCH/issues">Request Feature</a>
   </p>
   <p align="center">
-    Greatly appreciate contributions from <a href="https://github.com/jingshenggg">@jingshenggg</a>, <a href="https://github.com/zhenyong25">@zhenyong25</a>, <a href="https://github.com/CKHOR002">@CKHOR002</a> and <a href="https://github.com/NKLiuZN">@NKLiuZN</a>
+    Greatly appreciate contributions from <a href="https://github.com/jingshenggg">@jingshenggg</a>, <a href="https://github.com/zhenyong25">@zhenyong25</a>, <a href="https://github.com/CKHOR002">@CKHOR002</a> and <a href="https://github.com/jiawei99">@jiawei99</a>
   </p>
   </p>
 </div>
@@ -189,7 +189,7 @@ Don't forget to give the project a star! Thanks again!
 
 Khor Chin Yi - cykhor11@gmail.com
 
-Project Link: [https://github.com/jiawei99/intouch_google_solution](https://github.com/jiawei99/intouch_google_solution)
+Project Link: [https://github.com/jiawei99/intouch_google_solution](https://github.com/CKHOR002/GSCINTOUCH)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
