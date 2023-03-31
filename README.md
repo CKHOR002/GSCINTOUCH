@@ -16,7 +16,7 @@
   <h3 align="center">InTouch</h3>
 
   <p align="center">
-    One stop Applicaiton for CCA committees!
+    Mental Health Application!
     <br />
     <br />
     <a href="https://github.com/jiawei99/intouch_google_solution">View Demo</a>
