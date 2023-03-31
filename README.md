@@ -116,12 +116,12 @@ This is an example of how to get a local copy up and running.
    
 3. Configure .env file
 
-i.Open terminal and navigate to the project folder<br>
-ii.Run cp .env.example .env<br>
-iii.Fill in the .env file with the details that you have gathered in the following step<br>
-iv.Modify .env file in the root of the application by following actions.<br><br><br>
+i.  Open terminal and navigate to the project folder<br>
+ii. Run cp .env.example .env<br>
+iii.Fill in the .env file with the details that you have gathered in the following steps as shown below<br>
+iv. Modify .env file in the root of the application by following actions.<br><br><br>
 
-Steps:
+Steps:<br>
 OpenAI API Key
 1. Go to https://platform.openai.com/overview to sign up or login to open ai account. <br>
 2. Go to "Personal" tab on the top right of the page. <br>
@@ -154,7 +154,7 @@ Google Cloud Platform API Key
 		{<br>
 		 "type": "service_account",<br>
 		 "project_id": "",<br>
-		 "private_key_id": "COPY THE PrivateKeyID FROMHERE",<br>
+		 "private_key_id": "COPY THE PrivateKeyID FROM HERE",<br>
 		 "private_key": "COPY THE PrivateKEY FROM HERE",<br>
 		 "client_email": "audiototext@intouch-378205.iam.gserviceaccount.com",<br>
 		 "client_id": "112907106975140504099",<br>
