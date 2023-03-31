@@ -127,7 +127,7 @@ OpenAI API Key
 2. Go to "Personal" tab on the top right of the page. <br>
 3. Select "View API keys" <br>
 4. Create a new secret key if you do not have one. <br>
-5. Copy your secret key and paste it to the OpenAIAPIKey variable in env file.<br>
+5. Copy your secret key and paste it to the OpenAIAPIKey variable in .env file.<br>
 
 Consulation API Key
 1. Go to the 100ms.live website and click on the "Sign up" button at the top right corner of the page.<br>
@@ -163,7 +163,7 @@ Google Cloud Platform API Key
 		 "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",<br>
 		 "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/audiototext%40intouch-<br>378205.iam.gserviceaccount.com"<br>
 		}<br>
-12. Copy the private key from the private_key_id field and private_key in the JSON above and paste it into APPACCESSKEY and APPSECRET variable in .env.
+12. Copy the private key from the private_key_id field and private_key in the JSON above and paste it into APPACCESSKEY and APPSECRET variable in .env file.
 
 
  
