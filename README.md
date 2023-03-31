@@ -64,16 +64,16 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 
-InTouch is a mobile application aimed at improving mental health. It allows users to access psychological first aid courses and provides a platform for users to receive consultations from trained befrienders or psychological first aiders.
+InTouch is a mobile application aimed at improving mental health. It allows users to access psychological first aid courses and provides a platform for users to receive consultations from trained befrienders or psychological first aiders. <br />
 
-We aim to offer an APP to have the following features:
-*Video and voice consultation feature for users with mental health issues
-*Text diary feature for users to record their daily experiences and emotions
-*Sentiment analysis feature to provide users with feedback on their diary entries
-*Reward system for users to earn points and redeem them for vouchers
-*Psychological first aid courses for befrienders to improve their ability to assist individuals with mental health issues
-*Scenario-based quizzes with GPT3 Turbo API analysis for befriender skill validation
-*Consultation feature for qualified psychological first aiders to provide assistance to users with mental health issues
+We aim to offer an APP to have the following features: <br />
+*Video and voice consultation feature for users with mental health issues <br />
+*Text diary feature for users to record their daily experiences and emotions <br />
+*Sentiment analysis feature to provide users with feedback on their diary entries <br />
+*Reward system for users to earn points and redeem them for vouchers <br />
+*Psychological first aid courses for befrienders to improve their ability to assist individuals with mental health issues <br />
+*Scenario-based quizzes with GPT3 Turbo API analysis for befriender skill validation <br />
+*Consultation feature for qualified psychological first aiders to provide assistance to users with mental health issues <br />
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
