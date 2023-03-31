@@ -189,7 +189,7 @@ Don't forget to give the project a star! Thanks again!
 
 Khor Chin Yi - cykhor11@gmail.com
 
-Project Link: [https://github.com/jiawei99/intouch_google_solution](https://github.com/CKHOR002/GSCINTOUCH)
+Project Link: [https://github.com/CKHOR002/GSCINTOUCH](https://github.com/CKHOR002/GSCINTOUCH)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
